@@ -1,6 +1,7 @@
-## Hi there 👋
+![Uploading KM13-status-connected-v02.png…]()
 
-<!--
+
+<!--## Hi there 👋
 **Presikid/Presikid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
